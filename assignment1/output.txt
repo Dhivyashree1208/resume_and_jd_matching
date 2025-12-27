@@ -1,0 +1,35 @@
+L
+
+
+resume_text = """
+Frontend developer with experience in HTML, CSS, JavaScript, and React.
+Built responsive user interfaces and web applications.
+
+Familiar with REST APIs, basic backend integration, and UI testing tools.
+"""
+
+
+
+jd_text = """
+Looking for an AI/ML Intern with Python, Machine Learning, NLP, and data
+preprocessing experience.
+"""
+
+-----------------------------------------------------------------------------
+
+resume_text = """
+Bachelor of Arts graduate with interest in content writing and social media
+management. Experience in writing blogs, managing Instagram pages, and
+creating marketing content. Familiar with basic MS Office tools.
+"""
+
+
+
+
+jd_text = """
+We are looking for an AI/ML Intern with strong Python programming skills,
+experience in Machine Learning, NLP, and data preprocessing.
+"""
+
+
+--------------------------------------------------------------------------------------------
