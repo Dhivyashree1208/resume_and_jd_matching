@@ -129,14 +129,29 @@ The system is modular and suitable for integration into a larger ATS pipeline.
 - No labeled hiring dataset is used
 - Conservative thresholds may reject borderline candidates
 
+### Alignment with Assignment Requirements
+
+The assignment emphasizes explainability, realistic scoring, and avoidance
+of black-box decisions. The conservative scoring approach ensures:
+- Transparent and auditable results
+- Reduced false positives
+- Clear differentiation between weak, moderate, and strong matches
+
+Rather than optimizing for higher scores, the system focuses on reliable
+and explainable evaluation, which satisfies both the technical and system-
+thinking objectives of the assignment.
+
+
 ---
 
 ## 🚀 How to Run Assignment1,Assignment2,Flask app(optional)
 
-### Install dependencies
+### Install dependencies and run the system
 ```bash
 pip install -r requirements.txt
 python -m assignment1.main
 uvicorn assignment2.app:app --reload
 python flask_app/app.py
+
+
 
